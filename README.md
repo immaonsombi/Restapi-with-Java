@@ -1,1 +1,1 @@
-A Rest-Api  with Java and Spring  and perfoms CRUD functionalities  and utilises JPA 
+A Rest-API  with Java and Spring Mavern  perfoms CRUD functionalities  and utilises JPA 
